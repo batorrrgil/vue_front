@@ -1,5 +1,0 @@
-plugins:
-  cache:
-    name: memcached
-    options:
-      serverLocation: ${MEMCACHED_URL}

@@ -1,7 +1,0 @@
-plugins:
-  storage:
-    name: elasticsearch
-    options:
-      host: 'localhost:9200'
-      index: 'someIndex'
-      splitChar: '/'
